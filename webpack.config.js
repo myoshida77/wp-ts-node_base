@@ -22,6 +22,7 @@ const config = {
   resolve: {
     extensions: ['.ts', '.js']
   },
+  // webpack-dev-server
   devServer: {
     contentBase: path.resolve(__dirname, 'dist'),
     port: 3000,
