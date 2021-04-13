@@ -6,7 +6,7 @@
   "main": "./dist/main.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/myoshidq/webpack-ts-node_base"
+    "url": "git+ssh://github.com/myoshidq/wp-ts-node_base"
   },
   "scripts": {
     "dev": "ts-node src/main.ts",
